@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"نسخه فعلی این برنامه در حال از دسترس خارج شده است لطفا عضو کانال ما شوید و از برنامه دیگری استفاده کنید ","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
